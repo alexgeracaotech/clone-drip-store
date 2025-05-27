@@ -8,3 +8,11 @@ body {
   width: 100%;
   font-family: 'Inter', sans-serif;
 }
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}

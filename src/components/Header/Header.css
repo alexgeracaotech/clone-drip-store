@@ -1,0 +1,19 @@
+#header {
+  border: 1px solid red;
+  width: 100%;
+}
+
+#header .box-header {
+  border: 1px solid red;
+  width: 90rem;
+  height: 12rem;
+  margin: 0 auto;
+  padding: 0 6.250rem;
+}
+
+#header .box-header .box-header-children {
+  border: 1px solid red;
+  width: 62.063rem;
+  height: 8.063rem;
+  margin-top: 2.125rem;
+}

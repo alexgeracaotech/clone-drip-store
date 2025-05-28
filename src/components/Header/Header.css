@@ -9,6 +9,7 @@
   height: 12rem;
   margin: 0 auto;
   padding: 0 6.250rem;
+  display: flex;
 }
 
 #header .box-header .box-header-children {

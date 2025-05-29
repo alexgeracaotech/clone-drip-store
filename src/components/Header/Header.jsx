@@ -1,5 +1,6 @@
 import { Logo } from '../Logo/Logo';
 import { Input } from '../Input/Input';
+import { Useful } from '../Useful/Useful';
 import { Button } from '../Button/Button';
 import { ShopCart } from '../ShopCart/ShopCart';
 import './Header.css';
@@ -25,6 +26,13 @@ export const Header = () => {
             width={'34.938rem'}
             height={'3.75rem'}
             src={'../../../public/search.svg'}
+          />
+          <Useful
+            value={'Cadastre-se'}
+            margin={'1.2rem 0 0 0'}
+            color={'#474747'}
+            href={'#'}
+            textDecoration={'underline'}
           />
         </div>
         <Button
